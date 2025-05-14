@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="wallpaper.jpg" alt="wallpaper" />
 
-<!--
-**champs-8/champs-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25&center=false&vCenter=true&width=1000&lines=Fabio+Santos;Be+Welcome!+:%29" alt="Typing SVG">
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Informações com emojis alinhadas à esquerda -->
+<div style="text-align: left; padding: 20px 0;">
+  <ul>
+    <!-- <li>💻 <strong>Técnica</strong> em Análise e Desenvolvimento de Sistemas - SENAI</li>-->
+    <li>🎓 <strong>Graduando</strong> em Analise e Desenvolvimento de Sistemas - ANHANGUERA</li>
+    <li>👩‍💻 <strong>Software Developer | POO | System Analytic | Backend </strong></li>
+    <li>🎂 <strong>23 anos</strong> - 2001</li>
+  </ul>
+</div>
+
+<hr>
+
+<!-- GitHub Stats -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=champs-8&show_icons=true&count_private=true&hide_border=true&title_color=007BFF&icon_color=007BFF&text_color=c9d1d9&bg_color=0d1117" alt="Fabio Santos GitHub stats" title="Fabio Santos GitHub status"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=champs-8&layout=compact&hide_border=true&title_color=007BFF&text_color=007BFF&bg_color=0d1117" />
+</div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/champs-8/champs-8/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/champs-8/champs-8/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/champs-8/champs-8/output/github-snake.svg" />
+</picture>
