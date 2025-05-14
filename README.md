@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
-  <img src="linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<!--  <img src="https://github.com/champs-8/champs-8/raw/master/assets/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; -->
 </div>
 </br>
 
