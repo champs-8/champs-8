@@ -1,9 +1,13 @@
 <!-- Banner -->
-<img src="wallpaper.jpg" alt="wallpaper" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25&center=false&vCenter=true&width=1000&lines=Fabio+Santos;Be+Welcome!+:%29" alt="Typing SVG">
-</a>
+<p align="center">
+  <img src="backend.png" alt="Wallpaper"/>
+</p>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25&center=true&vCenter=true&width=1000&lines=Fabio+Santos;Be+Welcome!+:%29" alt="Typing SVG">
+  </a>
+</p>
 
 
 <!-- Informações com emojis alinhadas à esquerda -->
