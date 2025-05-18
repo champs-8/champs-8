@@ -31,7 +31,7 @@
     <!-- <li>💻 <strong>Técnica</strong> em Análise e Desenvolvimento de Sistemas - SENAI</li>-->
     <li>🎓 <strong>Graduando</strong> em Analise e Desenvolvimento de Sistemas - ANHANGUERA</li>
     <li>👩‍💻 <strong>Software Developer | POO | System Analytic | Backend </strong></li>
-    <li>🎂 <strong>23 anos</strong> - 2001</li>
+    <li>🎂 <strong>24 anos</strong> - 2001</li>
   </ul>
 </div>
 
